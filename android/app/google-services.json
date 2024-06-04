@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1079283427477",
+    "project_id": "assignment-logger-bak7ep",
+    "storage_bucket": "assignment-logger-bak7ep.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079283427477:android:0252c6793119bf1ae6d39c",
+        "android_client_info": {
+          "package_name": "com.mycompany.assignmentlogger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079283427477-63b2pgnngdeaf2q18umlhi5fiu4hc8li.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.assignmentlogger",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "1079283427477-noij9imabandn042cge3g6a2pvh4mgdo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdTR9VhonSGhFaf_XQqMYVRrYhn0DmLTU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1079283427477-3pkhm83d128fp54l72ohs38sdsq3mg4u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1079283427477-57k1mj07siiobu55cd06d8th1cngqdai.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.assignmentlogger"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
